@@ -4,7 +4,7 @@ _Updated by `/wrap`. Keep under ~60 lines — delete stale entries, don't append
 
 ## Current focus
 
-Repo just set up. No topic started yet.
+Chinese (Mandarin speaking/listening) — just started.
 
 ## Done
 
@@ -22,8 +22,8 @@ _(nothing)_
 
 ## Next
 
-- Run `/project <name>` to start the first topic.
+- Start practicing Mandarin speaking/listening (chinese project).
 
 ## Projects
 
-_(none registered yet — `/project <name>` adds a line here)_
+- `chinese` — Mandarin speaking/listening, open-ended goal — just started.
